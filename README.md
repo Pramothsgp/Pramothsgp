@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋, I'm Pramoth sgp!<br>🚀 Full Stack Developer | MERN Stack Enthusiast<br>💻 Intern at Synergeeks Technologies<br>🎓 B.Tech IT | Sri Krishna College of Engineering and Technology<br><br>🔹 Passionate about building scalable web applications and solving complex problems.<br>🔹 300+ LeetCode problems solved | Strong problem-solving skills.<br>🔹 Experience in React, React Native, JavaScript, Node.js, Express, MongoDB.<br>🔹 Interested in system design, algorithms, and AI-driven applications.<br>🔹 currently working on SpringBoot<br><br>📌 Always open to collaboration and exciting projects!
+Hi there 👋, I'm Pramoth sgp!<br>🚀 Full Stack Developer | MERN Stack Enthusiast<br>💻 Intern at Synergeeks Technologies<br>🎓 B.Tech IT | Sri Krishna College of Engineering and Technology<br><br>🔹 Passionate about building scalable web applications and solving complex problems.<br>🔹 600+ LeetCode problems solved | Strong problem-solving skills.<br>🔹 Experience in React, React Native, Nextjs, TypeScript, JavaScript, Node.js, Express, MongoDB, Java, MySQL, SpringBoot.<br>🔹 Interested in system design, algorithms, and AI-driven applications.<br>🔹 currently working on SpringBoot<br><br>📌 Always open to collaboration and exciting projects!
 
 
 ## 🌐 Socials:
